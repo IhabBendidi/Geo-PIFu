@@ -157,5 +157,5 @@ dependencies:
     - tqdm==4.46.0
     - werkzeug==1.0.1
     - wrapt==1.12.1
-prefix: /home/tong/anaconda3/envs/opendrEnv
+prefix: /home/ihab/miniconda3/envs/opendrEnv
 
