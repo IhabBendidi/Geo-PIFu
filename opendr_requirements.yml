@@ -3,6 +3,7 @@ channels:
   - pytorch
   - sunpy
   - anaconda
+  - conda-forge
   - conda-forge/label/broken
   - defaults
 dependencies:
