@@ -133,5 +133,4 @@ dependencies:
     - pyqtchart==5.12
     - pyqtwebengine==5.12.1
     - trimesh==3.6.43
-prefix: /content/geopifu
-
+prefix: /home/ihab/miniconda3/envs/geopifu
