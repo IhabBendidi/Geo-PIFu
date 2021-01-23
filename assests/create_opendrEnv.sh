@@ -10,6 +10,11 @@ conda install -c anaconda scikit-image
 conda install -c anaconda scipy
 pip install pip==9.0.3
 pip install matplotlib==2.2.4
+sudo apt install libosmesa6-dev
+sudo apt-get install build-essential
+sudo apt-get install libgl1-mesa-dev
+sudo apt-get install libglu1-mesa-dev
+sudo apt-get install freeglut3-dev
 pip install opendr==0.77 # make sure "import opendr" works
 pip install openmesh
 pip uninstall numpy
