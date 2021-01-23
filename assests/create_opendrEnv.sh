@@ -19,7 +19,7 @@ pip install opendr==0.77 # make sure "import opendr" works
 pip install openmesh
 pip uninstall numpy
 pip install numpy # make sure "import cv2" and "import numpy as np" work
-pip install tensorflow-gpu==1.14 # plz check assert(tf.__version__ == "1.14.0")
+conda install tensorflow-gpu=1.14 # plz check assert(tf.__version__ == "1.14.0")
 pip install --upgrade pip
 pip install nvidia-ml-py==10.418.84
 pip install -U Pillow
