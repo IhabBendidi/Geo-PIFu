@@ -36,6 +36,8 @@ Development log
 
 We provide a conda `yml` environment file (you can modify `prefix` to change installation location). This conda env. is for `Geo-PIFu` and `PIFu` training, test and evaluation.
 
+	sudo apt-get install libopenexr-dev
+	sudo apt-get install openexr
 	conda env create -f geopifu_environment.yml
 	conda activate geopifu
 
