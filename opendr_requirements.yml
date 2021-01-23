@@ -94,14 +94,14 @@ dependencies:
   - py-opencv=3.4.1=py27h0676e08_1
   - pycparser=2.20=py_0
   - pyparsing=2.4.7=py_0
-  - pyqt=4.11.4=py27_4
+  - pyqt
   - python=2.7.18=h02575d3_0
   - python-dateutil=2.8.1=py_0
   - python_abi=2.7=1_cp27mu
   - pytorch=1.4.0=py2.7_cuda10.0.130_cudnn7.6.3_0
   - pytz=2020.1=py_0
   - pywavelets=1.0.3=py27hdd07704_1
-  - qt=4.8.7=2
+  - qt
   - readline=8.0=h7b6447c_0
   - scikit-image=0.14.2=py27he6710b0_0
   - scipy=1.2.1=py27he2b7bc3_0
